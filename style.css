@@ -1,0 +1,29 @@
+body{
+
+    background:linear-gradient(
+        320deg,
+        rgba(241, 135, 165, 0.8),
+        #ecf29c,
+        #f2a271
+    );
+
+    font-family:'Arial Narrow Bold';
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+    margin:0;
+}
+
+
+.container{
+
+    width: 450px;
+    margin: 60px auto;
+    background-color: rgba(216, 135, 140, 0.51);
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    
+    
+}
